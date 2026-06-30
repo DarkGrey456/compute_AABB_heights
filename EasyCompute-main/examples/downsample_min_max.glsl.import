@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://b5eupi5uiqlfl"
+path="res://.godot/imported/downsample_min_max.glsl-57aafd31aeacb75bd6d107649b4f0ab2.res"
+
+[deps]
+
+source_file="res://examples/downsample_min_max.glsl"
+dest_files=["res://.godot/imported/downsample_min_max.glsl-57aafd31aeacb75bd6d107649b4f0ab2.res"]
+
+[params]
+

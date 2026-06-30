@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://wk3e4h2pg1p8"
+path="res://.godot/imported/fill_min_max2.glsl-4ea5ea5b3982a123c26a72541d9c5d46.res"
+
+[deps]
+
+source_file="res://examples/fill_min_max2.glsl"
+dest_files=["res://.godot/imported/fill_min_max2.glsl-4ea5ea5b3982a123c26a72541d9c5d46.res"]
+
+[params]
+
