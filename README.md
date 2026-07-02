@@ -3,6 +3,8 @@
 This project is a component project for the heightmap projects, usable with either chunked lod or similar (DACLOD) and can be used to compute
 AABB's for the terrain tiles and obviously occlusion shapes too.
 
+The project just demonstrates launching a compute shader kernel on the terrain heightmap and finding the min and max heights using a downscaling reduce shader.
+
 Thats the output viewed in 3D.
 To load the scene you just open Node3D.tscn. That is the only working version.
 
